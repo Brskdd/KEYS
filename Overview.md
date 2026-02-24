@@ -1,2 +1,15 @@
 big ass overhaul for terraria that basically turns combat into doom eternal
-kjniubby
+- Removes All base accessories, armors and weapons
+- Adds Stat Tokens, weapon Tokens and custom weapons that all have alt fire
+	- Stat tokens allow for increase of Health, Shield or Damage 
+	- Weapon tokens allow for "Alt fires" of unlocked weapons.
+	- All custom weapons are unlocked through (Major) prehard mode bosses 
+- No wings throughout entire game. 
+- Combo meter Increased by using different weapons broken by taking damage. combo meter decreases cooldowns but requires less downtime between hits to runout as it increases
+- "Ammo" for weapons during boss fights will only be gained by damaging the boss with other weapons.
+- Alt fire of weapons are not unlocked by default and are unlocked with weapon tokens 
+- Minor boss Ai tweaks
+- Removed potion buffs
+- More debuffs that affect bosses
+- Boss Drop Boss Abilities that the player can equip
+-
