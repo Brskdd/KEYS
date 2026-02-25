@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Overview.md",
+                "file": "Weapons/Magic Sword.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Magic Sword"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Overview.md",
+                "file": "Weapons/Magic Sword.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Overview"
+              "title": "Backlinks for Magic Sword"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Overview.md",
+                "file": "Weapons/Magic Sword.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Overview"
+              "title": "Outgoing links from Magic Sword"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Overview.md",
+                "file": "Weapons/Magic Sword.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Overview"
+              "title": "Outline of Magic Sword"
             }
           }
         ]
@@ -185,7 +185,17 @@
   },
   "active": "cb897b4b812c4ea2",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Overview.md"
+    "Overview.md",
+    "Weapons/Magic Book.md",
+    "Weapons/Shotgun.md",
+    "Weapons/Flail.md",
+    "Weapons/Laser Rifle.md",
+    "Weapons/Magic Sword.md",
+    "Weapons/Rocket Launcher.md",
+    "Weapons/Spear.md",
+    "Ammo System.md",
+    "Combo Meter.md",
+    "Weapons",
+    "Welcome.md"
   ]
 }
